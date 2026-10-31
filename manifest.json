@@ -1,42 +1,42 @@
 {
-  "version": "2026.11.01.1",
+  "version": "2026.10.31.3",
   "graphVersion": "2026-10-29",
   "minAppVersion": "1.1.0",
   "files": {
     "assets/routes/jeepney_routes.geojson": {
-      "url": "https://jkjapona.github.io/ByahengDabawenyo-Data/versions/2026.11.01.1/jeepney_routes.geojson",
-      "sha256": "34503f93aaf041a8cd74faab83286fa027669dd61398a9a4cd340ecf49f30601",
-      "bytes": 2360626
+      "url": "https://jkjapona.github.io/ByahengDabawenyo-Data/versions/2026.10.31.3/jeepney_routes.geojson",
+      "sha256": "a328287638c4366ec96d1de618ffa3e5d8d126802152c22584c6f528fb48767d",
+      "bytes": 2357433
     },
     "assets/routes/bus_routes_AM.geojson": {
-      "url": "https://jkjapona.github.io/ByahengDabawenyo-Data/versions/2026.11.01.1/bus_routes_AM.geojson",
-      "sha256": "f82db2931a2914227744df5d3c6d638f3621317db6a69e8e7f853c9a90eb2fab",
-      "bytes": 132090
+      "url": "https://jkjapona.github.io/ByahengDabawenyo-Data/versions/2026.10.31.3/bus_routes_AM.geojson",
+      "sha256": "ab8a112d9772be71a6e08f050d334cb322022cb48a31c7cae9970869deba56bb",
+      "bytes": 131846
     },
     "assets/routes/bus_routes_PM.geojson": {
-      "url": "https://jkjapona.github.io/ByahengDabawenyo-Data/versions/2026.11.01.1/bus_routes_PM.geojson",
-      "sha256": "32d344a20b7716c7077bf1a7a8a82bae353f9cf766c061f6487771d394ff6bec",
-      "bytes": 126385
+      "url": "https://jkjapona.github.io/ByahengDabawenyo-Data/versions/2026.10.31.3/bus_routes_PM.geojson",
+      "sha256": "fedfc6b50bfde923965f88af8532af38f08184b1bed994ccdb9d8cb998b7ae59",
+      "bytes": 126141
     },
     "assets/routes/firestore_bus_stops.json": {
-      "url": "https://jkjapona.github.io/ByahengDabawenyo-Data/versions/2026.11.01.1/firestore_bus_stops.json",
+      "url": "https://jkjapona.github.io/ByahengDabawenyo-Data/versions/2026.10.31.3/firestore_bus_stops.json",
       "sha256": "0ab6af97d4e964b50aad386b5225e42a114632a19e094a98e8990fcfa2afaff5",
       "bytes": 27288
     },
     "assets/routes/bus_route_stops.json": {
-      "url": "https://jkjapona.github.io/ByahengDabawenyo-Data/versions/2026.11.01.1/bus_route_stops.json",
+      "url": "https://jkjapona.github.io/ByahengDabawenyo-Data/versions/2026.10.31.3/bus_route_stops.json",
       "sha256": "16dba65eae1164e39974167b2a95bbaef16820229a88340ed96c2f73de823835",
       "bytes": 53762
     },
     "assets/routes/bus_service_hours.json": {
-      "url": "https://jkjapona.github.io/ByahengDabawenyo-Data/versions/2026.11.01.1/bus_service_hours.json",
+      "url": "https://jkjapona.github.io/ByahengDabawenyo-Data/versions/2026.10.31.3/bus_service_hours.json",
       "sha256": "acc1c57189f6ba8a504470e1ed23da58068d0b51fe26e03c4e8a45fac608cd66",
       "bytes": 512
     },
     "assets/routes/davao_pois.json": {
-      "url": "https://jkjapona.github.io/ByahengDabawenyo-Data/versions/2026.11.01.1/davao_pois.json",
-      "sha256": "0068d0ae7c3cfdf950a1a9cb777555ff41f489973044c9481ccbe97a1da1fa19",
-      "bytes": 23294
+      "url": "https://jkjapona.github.io/ByahengDabawenyo-Data/versions/2026.10.31.3/davao_pois.json",
+      "sha256": "0e6d0166c6d0357f96975a822eaa16776128a1c4c596fcf7ca143dfb15d28307",
+      "bytes": 22122
     }
   }
 }
