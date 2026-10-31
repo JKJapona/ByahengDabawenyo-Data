@@ -1,0 +1,42 @@
+{
+  "version": "2026.11.01.1",
+  "graphVersion": "2026-10-29",
+  "minAppVersion": "1.1.0",
+  "files": {
+    "assets/routes/jeepney_routes.geojson": {
+      "url": "https://jkjapona.github.io/ByahengDabawenyo-Data/staging/versions/2026.11.01.1/jeepney_routes.geojson",
+      "sha256": "34503f93aaf041a8cd74faab83286fa027669dd61398a9a4cd340ecf49f30601",
+      "bytes": 2360626
+    },
+    "assets/routes/bus_routes_AM.geojson": {
+      "url": "https://jkjapona.github.io/ByahengDabawenyo-Data/staging/versions/2026.11.01.1/bus_routes_AM.geojson",
+      "sha256": "f82db2931a2914227744df5d3c6d638f3621317db6a69e8e7f853c9a90eb2fab",
+      "bytes": 132090
+    },
+    "assets/routes/bus_routes_PM.geojson": {
+      "url": "https://jkjapona.github.io/ByahengDabawenyo-Data/staging/versions/2026.11.01.1/bus_routes_PM.geojson",
+      "sha256": "32d344a20b7716c7077bf1a7a8a82bae353f9cf766c061f6487771d394ff6bec",
+      "bytes": 126385
+    },
+    "assets/routes/firestore_bus_stops.json": {
+      "url": "https://jkjapona.github.io/ByahengDabawenyo-Data/staging/versions/2026.11.01.1/firestore_bus_stops.json",
+      "sha256": "0ab6af97d4e964b50aad386b5225e42a114632a19e094a98e8990fcfa2afaff5",
+      "bytes": 27288
+    },
+    "assets/routes/bus_route_stops.json": {
+      "url": "https://jkjapona.github.io/ByahengDabawenyo-Data/staging/versions/2026.11.01.1/bus_route_stops.json",
+      "sha256": "16dba65eae1164e39974167b2a95bbaef16820229a88340ed96c2f73de823835",
+      "bytes": 53762
+    },
+    "assets/routes/bus_service_hours.json": {
+      "url": "https://jkjapona.github.io/ByahengDabawenyo-Data/staging/versions/2026.11.01.1/bus_service_hours.json",
+      "sha256": "acc1c57189f6ba8a504470e1ed23da58068d0b51fe26e03c4e8a45fac608cd66",
+      "bytes": 512
+    },
+    "assets/routes/davao_pois.json": {
+      "url": "https://jkjapona.github.io/ByahengDabawenyo-Data/staging/versions/2026.11.01.1/davao_pois.json",
+      "sha256": "0068d0ae7c3cfdf950a1a9cb777555ff41f489973044c9481ccbe97a1da1fa19",
+      "bytes": 23294
+    }
+  }
+}
