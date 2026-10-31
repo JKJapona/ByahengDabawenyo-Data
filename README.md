@@ -4,5 +4,5 @@ Public, data-only route updates.
 
 - Production: https://jkjapona.github.io/ByahengDabawenyo-Data/manifest.json
 - Staging: https://jkjapona.github.io/ByahengDabawenyo-Data/staging/manifest.json
-- Current version: `2026.10.31.3`
+- Current version: `2026.10.31.4`
 - Graph version: `2026-10-29`
