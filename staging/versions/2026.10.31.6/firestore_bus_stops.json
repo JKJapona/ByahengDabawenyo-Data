@@ -1,0 +1,1533 @@
+[
+  {
+    "stopId": "S1",
+    "name": "Toril District Hall",
+    "location": "Agton St, Toril",
+    "lat": 7.018929603,
+    "lon": 125.4972118,
+    "routes": [
+      "R102AM",
+      "R102PM",
+      "R103AM",
+      "R103PM"
+    ]
+  },
+  {
+    "stopId": "S2",
+    "name": "Fusion GTH",
+    "location": "MacArthur Hwy, Toril",
+    "lat": 7.026138586,
+    "lon": 125.505289,
+    "routes": [
+      "R102AM",
+      "R102PM",
+      "R103AM",
+      "R103PM"
+    ]
+  },
+  {
+    "stopId": "S3",
+    "name": "GTH",
+    "location": "MacArthur Hwy, Toril",
+    "lat": 7.025840054,
+    "lon": 125.504454,
+    "routes": [
+      "R102AM",
+      "R102PM",
+      "R103AM",
+      "R103PM"
+    ]
+  },
+  {
+    "stopId": "S4",
+    "name": "Pepsi Dumoy",
+    "location": "MacArthur Hwy, Toril",
+    "lat": 7.031071,
+    "lon": 125.5125366,
+    "routes": [
+      "R102AM",
+      "R102PM",
+      "R103AM",
+      "R103PM"
+    ]
+  },
+  {
+    "stopId": "S5",
+    "name": "IWHA",
+    "location": "MacArthur Hwy, Toril",
+    "lat": 7.031474655,
+    "lon": 125.512747,
+    "routes": [
+      "R102AM",
+      "R102PM",
+      "R103AM",
+      "R103PM"
+    ]
+  },
+  {
+    "stopId": "S6",
+    "name": "Bago Aplaya Crossing",
+    "location": "MacArthur Hwy, Bago Aplaya",
+    "lat": 7.042743441,
+    "lon": 125.5296909,
+    "routes": [
+      "R102AM",
+      "R102PM",
+      "R103AM",
+      "R103PM"
+    ]
+  },
+  {
+    "stopId": "S7",
+    "name": "Shell Bago Aplaya",
+    "location": "MacArthur Hwy, Bago Aplaya",
+    "lat": 7.04234305,
+    "lon": 125.5287463,
+    "routes": [
+      "R102AM",
+      "R102PM",
+      "R103AM",
+      "R103PM"
+    ]
+  },
+  {
+    "stopId": "S8",
+    "name": "Gulf View",
+    "location": "MacArthur Hwy, Bago Aplaya",
+    "lat": 7.045947014,
+    "lon": 125.5344503,
+    "routes": [
+      "R102AM"
+    ]
+  },
+  {
+    "stopId": "S9",
+    "name": "Apo Golf",
+    "location": "MacArthur Hwy, Bago Aplaya",
+    "lat": 7.045590164,
+    "lon": 125.5335623,
+    "routes": [
+      "R102PM"
+    ]
+  },
+  {
+    "stopId": "S10",
+    "name": "Jollibee Puan",
+    "location": "MacArthur Hwy, Puan",
+    "lat": 7.051666781,
+    "lon": 125.5425338,
+    "routes": [
+      "R102AM"
+    ]
+  },
+  {
+    "stopId": "S11",
+    "name": "Mercury Puan",
+    "location": "MacArthur Hwy, Puan",
+    "lat": 7.051769198,
+    "lon": 125.5423273,
+    "routes": [
+      "R102PM"
+    ]
+  },
+  {
+    "stopId": "S12",
+    "name": "Coke Ulas",
+    "location": "MacArthur Hwy, Talomo",
+    "lat": 7.057182148,
+    "lon": 125.5484167,
+    "routes": [
+      "R102AM"
+    ]
+  },
+  {
+    "stopId": "S13",
+    "name": "Coke Ulas",
+    "location": "MacArthur Hwy, Talomo",
+    "lat": 7.057143378,
+    "lon": 125.5480402,
+    "routes": [
+      "R102PM"
+    ]
+  },
+  {
+    "stopId": "S14",
+    "name": "Mintal Palengke",
+    "location": "San Francisco St, Mintal",
+    "lat": 7.091393905,
+    "lon": 125.5029417,
+    "routes": [
+      "R402AM",
+      "R402PM",
+      "R403AM",
+      "R403PM"
+    ]
+  },
+  {
+    "stopId": "S15",
+    "name": "Sto Niño Mintal",
+    "location": "Davao-Bukidnon Rd, Mintal",
+    "lat": 7.085845625,
+    "lon": 125.5080444,
+    "routes": [
+      "R402AM",
+      "R402PM",
+      "R403AM",
+      "R403PM"
+    ]
+  },
+  {
+    "stopId": "S16",
+    "name": "Vista Mall",
+    "location": "Davao-Bukidnon Rd, Mintal",
+    "lat": 7.085657579,
+    "lon": 125.5085064,
+    "routes": [
+      "R402AM",
+      "R402PM",
+      "R403AM",
+      "R403PM"
+    ]
+  },
+  {
+    "stopId": "S17",
+    "name": "Green Meadows",
+    "location": "Davao-Bukidnon Rd, Mintal",
+    "lat": 7.080916818,
+    "lon": 125.5123658,
+    "routes": [
+      "R402AM",
+      "R402PM",
+      "R403AM",
+      "R403PM"
+    ]
+  },
+  {
+    "stopId": "S18",
+    "name": "Gaisano Capital",
+    "location": "Davao-Bukidnon Rd, Mintal",
+    "lat": 7.08045225,
+    "lon": 125.5130586,
+    "routes": [
+      "R402AM",
+      "R402PM",
+      "R403AM",
+      "R403PM"
+    ]
+  },
+  {
+    "stopId": "S19",
+    "name": "Catalunan Pequeño",
+    "location": "Davao-Bukidnon Rd, Catalunan Pequeno",
+    "lat": 7.074193637,
+    "lon": 125.5184677,
+    "routes": [
+      "R402AM",
+      "R402PM",
+      "R403AM",
+      "R403PM"
+    ]
+  },
+  {
+    "stopId": "S20",
+    "name": "Catalunan Pequeño",
+    "location": "Davao-Bukidnon Rd, Catalunan Pequeno",
+    "lat": 7.074346947,
+    "lon": 125.518584,
+    "routes": [
+      "R402AM",
+      "R402PM",
+      "R403AM",
+      "R403PM"
+    ]
+  },
+  {
+    "stopId": "S21",
+    "name": "Wellspring Village",
+    "location": "Davao-Bukidnon Rd, Catalunan Pequeno",
+    "lat": 7.069475101,
+    "lon": 125.5246323,
+    "routes": [
+      "R402AM",
+      "R402PM",
+      "R403AM",
+      "R403PM"
+    ]
+  },
+  {
+    "stopId": "S22",
+    "name": "Wellspring Village",
+    "location": "Davao-Bukidnon Rd, Catalunan Pequeno",
+    "lat": 7.070205526,
+    "lon": 125.5239692,
+    "routes": [
+      "R402AM",
+      "R402PM",
+      "R403AM",
+      "R403PM"
+    ]
+  },
+  {
+    "stopId": "S23",
+    "name": "Hope Ave. Bangkal",
+    "location": "Hope St, Bangkal",
+    "lat": 7.060824802,
+    "lon": 125.5538189,
+    "routes": [
+      "R503AM",
+      "R503PM"
+    ]
+  },
+  {
+    "stopId": "S24",
+    "name": "Shell Bangkal",
+    "location": "MacArthur Hwy, Bangkal",
+    "lat": 7.060704577,
+    "lon": 125.5552335,
+    "routes": [
+      "R102PM",
+      "R402AM",
+      "R402PM",
+      "R403AM",
+      "R403PM",
+      "R503AM",
+      "R503PM"
+    ]
+  },
+  {
+    "stopId": "S25",
+    "name": "Ateneo Senior High",
+    "location": "MacArthur Hwy, Bangkal",
+    "lat": 7.060720323,
+    "lon": 125.5567267,
+    "routes": [
+      "R102AM",
+      "R402AM",
+      "R402PM",
+      "R403AM",
+      "R403PM",
+      "R503AM",
+      "R503PM"
+    ]
+  },
+  {
+    "stopId": "S26",
+    "name": "SPED Bangkal",
+    "location": "MacArthur Hwy, Bangkal",
+    "lat": 7.061479017,
+    "lon": 125.5598189,
+    "routes": [
+      "R102PM",
+      "R402AM",
+      "R402PM",
+      "R403AM",
+      "R403PM",
+      "R503AM",
+      "R503PM"
+    ]
+  },
+  {
+    "stopId": "S27",
+    "name": "SPED Bangkal",
+    "location": "MacArthur Hwy, Bangkal",
+    "lat": 7.061205551,
+    "lon": 125.5595238,
+    "routes": [
+      "R102AM",
+      "R402AM",
+      "R402PM",
+      "R403AM",
+      "R403PM",
+      "R503AM",
+      "R503PM"
+    ]
+  },
+  {
+    "stopId": "S28",
+    "name": "Tahimik Ave. Matina",
+    "location": "MacArthur Hwy, Bangkal",
+    "lat": 7.060972994,
+    "lon": 125.5637886,
+    "routes": [
+      "R102PM",
+      "R402AM",
+      "R402PM",
+      "R403AM",
+      "R403PM",
+      "R503AM",
+      "R503PM"
+    ]
+  },
+  {
+    "stopId": "S29",
+    "name": "Tahimik Ave. Matina",
+    "location": "MacArthur Hwy, Bangkal",
+    "lat": 7.060256515,
+    "lon": 125.5649827,
+    "routes": [
+      "R102AM",
+      "R402AM",
+      "R402PM",
+      "R403AM",
+      "R403PM",
+      "R503AM",
+      "R503PM"
+    ]
+  },
+  {
+    "stopId": "S30",
+    "name": "Matina Crossing",
+    "location": "MacArthur Hwy, Matina Crossing",
+    "lat": 7.059224629,
+    "lon": 125.5679064,
+    "routes": [
+      "R102PM",
+      "R402AM",
+      "R402PM",
+      "R403AM",
+      "R403PM",
+      "R503AM",
+      "R503PM"
+    ]
+  },
+  {
+    "stopId": "S31",
+    "name": "Matina Crossing",
+    "location": "MacArthur Hwy, Matina Crossing",
+    "lat": 7.05815984,
+    "lon": 125.5697486,
+    "routes": [
+      "R102AM",
+      "R402AM",
+      "R402PM",
+      "R403AM",
+      "R403PM",
+      "R503AM",
+      "R503PM"
+    ]
+  },
+  {
+    "stopId": "S32",
+    "name": "Kawayan Drive",
+    "location": "MacArthur Hwy, Matina Crossing",
+    "lat": 7.055757121,
+    "lon": 125.5754274,
+    "routes": [
+      "R102AM",
+      "R402AM",
+      "R402PM",
+      "R403AM",
+      "R403PM",
+      "R503AM",
+      "R503PM"
+    ]
+  },
+  {
+    "stopId": "S33",
+    "name": "Kawayan Drive",
+    "location": "MacArthur Hwy, Matina Crossing",
+    "lat": 7.055720713,
+    "lon": 125.5760618,
+    "routes": [
+      "R102PM",
+      "R402AM",
+      "R402PM",
+      "R403AM",
+      "R403PM",
+      "R503AM",
+      "R503PM"
+    ]
+  },
+  {
+    "stopId": "S34",
+    "name": "Shrine Hills Matina",
+    "location": "MacArthur Hwy, Matina",
+    "lat": 7.057674636,
+    "lon": 125.5791878,
+    "routes": [
+      "R102PM",
+      "R402PM",
+      "R403AM",
+      "R403PM",
+      "R503AM",
+      "R503PM"
+    ]
+  },
+  {
+    "stopId": "S35",
+    "name": "DGT",
+    "location": "MacArthur Hwy, Matina",
+    "lat": 7.058251442,
+    "lon": 125.5803163,
+    "routes": [
+      "R102AM",
+      "R402AM",
+      "R403AM",
+      "R403PM",
+      "R503AM",
+      "R503PM"
+    ]
+  },
+  {
+    "stopId": "S36",
+    "name": "Water Dist. Matina",
+    "location": "MacArthur Hwy, Matina",
+    "lat": 7.060835759,
+    "lon": 125.5895535,
+    "routes": [
+      "R102AM",
+      "R402AM",
+      "R403AM",
+      "R403PM",
+      "R503AM",
+      "R503PM"
+    ]
+  },
+  {
+    "stopId": "S37",
+    "name": "Alorica Davao",
+    "location": "MacArthur Hwy, Matina",
+    "lat": 7.061631586,
+    "lon": 125.5917376,
+    "routes": [
+      "R102PM",
+      "R402PM",
+      "R403AM",
+      "R403PM",
+      "R503AM",
+      "R503PM"
+    ]
+  },
+  {
+    "stopId": "S38",
+    "name": "NCCC Maa",
+    "location": "MacArthur Hwy, Matina",
+    "lat": 7.061853793,
+    "lon": 125.5936867,
+    "routes": [
+      "R102AM",
+      "R402AM",
+      "R403AM",
+      "R403PM",
+      "R503AM",
+      "R503PM"
+    ]
+  },
+  {
+    "stopId": "S39",
+    "name": "Ateneo Matina",
+    "location": "MacArthur Hwy, Matina",
+    "lat": 7.062865119,
+    "lon": 125.5979201,
+    "routes": [
+      "R102AM",
+      "R402AM",
+      "R403AM",
+      "R403PM",
+      "R503AM",
+      "R503PM"
+    ]
+  },
+  {
+    "stopId": "S40",
+    "name": "UM Matina",
+    "location": "MacArthur Hwy, Matina",
+    "lat": 7.063067217,
+    "lon": 125.5978131,
+    "routes": [
+      "R102PM",
+      "R402PM",
+      "R403AM",
+      "R403PM",
+      "R503AM",
+      "R503PM"
+    ]
+  },
+  {
+    "stopId": "S41",
+    "name": "GE Torres (Sandawa)",
+    "location": "GE Torres St",
+    "lat": 7.061615663,
+    "lon": 125.6011502,
+    "routes": [
+      "R102AM",
+      "R402AM"
+    ]
+  },
+  {
+    "stopId": "S42",
+    "name": "GE Torres (Sandawa)",
+    "location": "GE Torres St",
+    "lat": 7.060627984,
+    "lon": 125.6015307,
+    "routes": [
+      "R102PM",
+      "R402PM"
+    ]
+  },
+  {
+    "stopId": "S43",
+    "name": "Yellow Fin Quimpo",
+    "location": "Quimpo Blvd",
+    "lat": 7.055713682,
+    "lon": 125.5997445,
+    "routes": [
+      "R102AM",
+      "R103AM",
+      "R103PM",
+      "R402AM"
+    ]
+  },
+  {
+    "stopId": "S44",
+    "name": "Ecoland Terminal",
+    "location": "Quimpo Blvd",
+    "lat": 7.055481361,
+    "lon": 125.5998476,
+    "routes": [
+      "R102PM",
+      "R103AM",
+      "R103PM",
+      "R402PM"
+    ]
+  },
+  {
+    "stopId": "S45",
+    "name": "Coastal Rd. Times Beach",
+    "location": "Ecoland Dr",
+    "lat": 7.04552651,
+    "lon": 125.5916199,
+    "routes": [
+      "R102PM",
+      "R103AM",
+      "R103PM"
+    ]
+  },
+  {
+    "stopId": "S46",
+    "name": "Coastal Rd. Times Beach",
+    "location": "Tulip Dr",
+    "lat": 7.045432744,
+    "lon": 125.5914684,
+    "routes": [
+      "R102AM",
+      "R103AM",
+      "R103PM"
+    ]
+  },
+  {
+    "stopId": "S47",
+    "name": "SM Ecoland",
+    "location": "Quimpo Blvd",
+    "lat": 7.050564468,
+    "lon": 125.5877567,
+    "routes": [
+      "R402PM"
+    ]
+  },
+  {
+    "stopId": "S48",
+    "name": "LTO Ecoland",
+    "location": "Quimpo Blvd",
+    "lat": 7.050892832,
+    "lon": 125.5877157,
+    "routes": [
+      "R402AM"
+    ]
+  },
+  {
+    "stopId": "S49",
+    "name": "PWC Quimpo",
+    "location": "Quimpo Blvd",
+    "lat": 7.052901586,
+    "lon": 125.5944564,
+    "routes": [
+      "R402AM"
+    ]
+  },
+  {
+    "stopId": "S50",
+    "name": "PWC Quimpo",
+    "location": "Quimpo Blvd",
+    "lat": 7.052822,
+    "lon": 125.5949105,
+    "routes": [
+      "R402PM"
+    ]
+  },
+  {
+    "stopId": "S51",
+    "name": "Felcris Centrale",
+    "location": "Quimpo Blvd",
+    "lat": 7.059158296,
+    "lon": 125.607677,
+    "routes": [
+      "R103AM",
+      "R103PM"
+    ]
+  },
+  {
+    "stopId": "S52",
+    "name": "Felcris Centrale",
+    "location": "Quimpo Blvd",
+    "lat": 7.059843443,
+    "lon": 125.6087535,
+    "routes": [
+      "R103AM",
+      "R103PM"
+    ]
+  },
+  {
+    "stopId": "S53",
+    "name": "Pichon St. cor. Quirino Ave.",
+    "location": "Pichon St",
+    "lat": 7.067817992,
+    "lon": 125.6031606,
+    "routes": [
+      "R403AM",
+      "R403PM",
+      "R503AM",
+      "R503PM"
+    ]
+  },
+  {
+    "stopId": "S54",
+    "name": "Grand Menseng Hotel",
+    "location": "Pichon St",
+    "lat": 7.064459259,
+    "lon": 125.6069247,
+    "routes": [
+      "R403AM",
+      "R403PM",
+      "R503AM",
+      "R503PM"
+    ]
+  },
+  {
+    "stopId": "S55",
+    "name": "San Pedro St.",
+    "location": "San Pedro St",
+    "lat": 7.065721478,
+    "lon": 125.6076921,
+    "routes": [
+      "R403AM",
+      "R403PM",
+      "R503AM",
+      "R503PM"
+    ]
+  },
+  {
+    "stopId": "S56",
+    "name": "Davao City Police Office",
+    "location": "San Pedro St",
+    "lat": 7.063730172,
+    "lon": 125.6103426,
+    "routes": [
+      "R103AM",
+      "R103PM"
+    ]
+  },
+  {
+    "stopId": "S57",
+    "name": "Artiaga Boulevard",
+    "location": "Quezon Blvd",
+    "lat": 7.064597268,
+    "lon": 125.6140451,
+    "routes": [
+      "R103AM"
+    ]
+  },
+  {
+    "stopId": "S58",
+    "name": "CM Recto Ave.",
+    "location": "CM Recto Ave",
+    "lat": 7.066633271,
+    "lon": 125.6106238,
+    "routes": [
+      "R103AM",
+      "R103PM",
+      "R403AM",
+      "R403PM",
+      "R503AM",
+      "R503PM"
+    ]
+  },
+  {
+    "stopId": "S59",
+    "name": "UM Bolton",
+    "location": "Bolton St",
+    "lat": 7.067024737,
+    "lon": 125.6097939,
+    "routes": [
+      "R103PM"
+    ]
+  },
+  {
+    "stopId": "S60",
+    "name": "Davao Light (C. Bangoy St.)",
+    "location": "C Bangoy St",
+    "lat": 7.072558067,
+    "lon": 125.6106007,
+    "routes": [
+      "R103PM",
+      "R403AM",
+      "R403PM",
+      "R503AM",
+      "R503PM"
+    ]
+  },
+  {
+    "stopId": "N61",
+    "name": "Red Cross Roxas",
+    "location": "Roxas Ave",
+    "lat": 7.072804196,
+    "lon": 125.6113999,
+    "routes": [
+      "R103AM"
+    ]
+  },
+  {
+    "stopId": "N62",
+    "name": "Red Cross Roxas",
+    "location": "Roxas Ave",
+    "lat": 7.072390407,
+    "lon": 125.6117064,
+    "routes": [
+      "R603AM",
+      "R603PM",
+      "R763AM",
+      "R763PM",
+      "R783AM",
+      "R783PM",
+      "R793AM",
+      "R793PM"
+    ]
+  },
+  {
+    "stopId": "N63",
+    "name": "Davao Mental Hospital",
+    "location": "JP Laurel Ave",
+    "lat": 7.075340105,
+    "lon": 125.6131015,
+    "routes": [
+      "R603AM",
+      "R603PM",
+      "R763AM",
+      "R763PM",
+      "R783AM",
+      "R783PM",
+      "R793AM",
+      "R793PM"
+    ]
+  },
+  {
+    "stopId": "N64",
+    "name": "NCCC Mall VP",
+    "location": "JP Laurel Ave",
+    "lat": 7.085043065,
+    "lon": 125.6115351,
+    "routes": [
+      "R603AM",
+      "R603PM",
+      "R763AM",
+      "R763PM"
+    ]
+  },
+  {
+    "stopId": "N65",
+    "name": "NCCC Mall VP",
+    "location": "JP Laurel Ave",
+    "lat": 7.085483461,
+    "lon": 125.6115224,
+    "routes": [
+      "R603AM",
+      "R603PM",
+      "R763AM",
+      "R763PM"
+    ]
+  },
+  {
+    "stopId": "N66",
+    "name": "Abreeza Mall",
+    "location": "JP Laurel Ave",
+    "lat": 7.091626883,
+    "lon": 125.6102946,
+    "routes": [
+      "R603AM",
+      "R603PM",
+      "R763AM",
+      "R763PM"
+    ]
+  },
+  {
+    "stopId": "N67",
+    "name": "Abreeza Mall",
+    "location": "JP Laurel Ave",
+    "lat": 7.090580124,
+    "lon": 125.609879,
+    "routes": [
+      "R603AM",
+      "R603PM",
+      "R763AM",
+      "R763PM"
+    ]
+  },
+  {
+    "stopId": "N68",
+    "name": "JP Laurel Flyover",
+    "location": "JP Laurel Ave",
+    "lat": 7.094972829,
+    "lon": 125.6151482,
+    "routes": [
+      "R603AM",
+      "R603PM",
+      "R763AM",
+      "R763PM"
+    ]
+  },
+  {
+    "stopId": "N69",
+    "name": "Ladislawa",
+    "location": "Buhangin-Lapanday Rd",
+    "lat": 7.098922933,
+    "lon": 125.6149232,
+    "routes": [
+      "R603AM",
+      "R603PM",
+      "R763AM",
+      "R763PM"
+    ]
+  },
+  {
+    "stopId": "N70",
+    "name": "Ladislawa",
+    "location": "Buhangin-Lapanday Rd",
+    "lat": 7.098869651,
+    "lon": 125.6147663,
+    "routes": [
+      "R603AM",
+      "R603PM",
+      "R763AM",
+      "R763PM"
+    ]
+  },
+  {
+    "stopId": "N71",
+    "name": "Citygate Buhangin",
+    "location": "Buhangin-Cabantian-Indangan Rd",
+    "lat": 7.111765693,
+    "lon": 125.6131132,
+    "routes": [
+      "R603PM"
+    ]
+  },
+  {
+    "stopId": "N72",
+    "name": "Holy Child Cabantian",
+    "location": "Buhangin-Cabantian-Indangan Rd",
+    "lat": 7.119477159,
+    "lon": 125.6213852,
+    "routes": [
+      "R603AM"
+    ]
+  },
+  {
+    "stopId": "N73",
+    "name": "Jollibee Cabantian",
+    "location": "Cabantian Rd",
+    "lat": 7.127632,
+    "lon": 125.619844,
+    "routes": [
+      "R603AM"
+    ]
+  },
+  {
+    "stopId": "N74",
+    "name": "Jollibee Cabantian",
+    "location": "Cabantian Rd",
+    "lat": 7.127626267,
+    "lon": 125.6200095,
+    "routes": [
+      "R603AM"
+    ]
+  },
+  {
+    "stopId": "N75",
+    "name": "Citymall Northtown",
+    "location": "Cabantian Rd",
+    "lat": 7.14201688,
+    "lon": 125.5999845,
+    "routes": [
+      "R603AM"
+    ]
+  },
+  {
+    "stopId": "N76",
+    "name": "NHA Buhangin",
+    "location": "CP Garcia Hwy",
+    "lat": 7.114964502,
+    "lon": 125.6239202,
+    "routes": [
+      "R763AM",
+      "R763PM"
+    ]
+  },
+  {
+    "stopId": "N77",
+    "name": "NHA Buhangin",
+    "location": "CP Garcia Hwy",
+    "lat": 7.114919419,
+    "lon": 125.6234848,
+    "routes": [
+      "R603AM",
+      "R763AM",
+      "R763PM"
+    ]
+  },
+  {
+    "stopId": "N78",
+    "name": "Buhangin Gym",
+    "location": "CP Garcia Hwy",
+    "lat": 7.10990262,
+    "lon": 125.6164166,
+    "routes": [
+      "R603AM",
+      "R763AM",
+      "R763PM"
+    ]
+  },
+  {
+    "stopId": "N79",
+    "name": "Milan Buhangin",
+    "location": "CP Garcia Hwy",
+    "lat": 7.10881164,
+    "lon": 125.6140574,
+    "routes": [
+      "R763AM",
+      "R763PM"
+    ]
+  },
+  {
+    "stopId": "N80",
+    "name": "Merco Cabaguio",
+    "location": "Dacudao Ave",
+    "lat": 7.096306667,
+    "lon": 125.6206198,
+    "routes": [
+      "R783AM",
+      "R783PM"
+    ]
+  },
+  {
+    "stopId": "N81",
+    "name": "Shell SPMC",
+    "location": "JP Laurel Ave",
+    "lat": 7.097907464,
+    "lon": 125.621751,
+    "routes": [
+      "R793AM",
+      "R793PM"
+    ]
+  },
+  {
+    "stopId": "N82",
+    "name": "Carmelite Lanang",
+    "location": "JP Laurel Ave",
+    "lat": 7.09979469,
+    "lon": 125.6274268,
+    "routes": [
+      "R783AM",
+      "R783PM"
+    ]
+  },
+  {
+    "stopId": "N83",
+    "name": "Tebow Hospital Lanang",
+    "location": "Tebow Hospital Lanang",
+    "lat": 7.099417963,
+    "lon": 125.6269476,
+    "routes": [
+      "R793AM",
+      "R793PM"
+    ]
+  },
+  {
+    "stopId": "N84",
+    "name": "SM Lanang",
+    "location": "JP Laurel Ave",
+    "lat": 7.100149162,
+    "lon": 125.6294232,
+    "routes": [
+      "R783AM",
+      "R783PM"
+    ]
+  },
+  {
+    "stopId": "N85",
+    "name": "SM Lanang",
+    "location": "JP Laurel Ave",
+    "lat": 7.10064843,
+    "lon": 125.6304512,
+    "routes": [
+      "R793AM",
+      "R793PM"
+    ]
+  },
+  {
+    "stopId": "N86",
+    "name": "Phil. Nikkei Jin Kai",
+    "location": "Mamay Rd",
+    "lat": 7.102811454,
+    "lon": 125.6327368,
+    "routes": [
+      "R783AM",
+      "R783PM"
+    ]
+  },
+  {
+    "stopId": "N87",
+    "name": "Starbucks Damosa",
+    "location": "Mamay Rd",
+    "lat": 7.10310368,
+    "lon": 125.6328311,
+    "routes": [
+      "R793AM",
+      "R793PM"
+    ]
+  },
+  {
+    "stopId": "N88",
+    "name": "Angliongto Arcade",
+    "location": "Mamay Rd",
+    "lat": 7.108628385,
+    "lon": 125.6323356,
+    "routes": [
+      "R783AM",
+      "R783PM"
+    ]
+  },
+  {
+    "stopId": "N89",
+    "name": "Angliongto Arcade",
+    "location": "Mamay Rd",
+    "lat": 7.109030202,
+    "lon": 125.6324524,
+    "routes": [
+      "R793AM",
+      "R793PM"
+    ]
+  },
+  {
+    "stopId": "N90",
+    "name": "Punad Bypass",
+    "location": "Mamay Bypass Rd",
+    "lat": 7.12169479,
+    "lon": 125.6332511,
+    "routes": [
+      "R793AM",
+      "R793PM"
+    ]
+  },
+  {
+    "stopId": "N91",
+    "name": "Punad Bypass",
+    "location": "Mamay Bypass Rd",
+    "lat": 7.121795418,
+    "lon": 125.6330655,
+    "routes": [
+      "R783AM",
+      "R783PM"
+    ]
+  },
+  {
+    "stopId": "N92",
+    "name": "Mcdo Pagibig",
+    "location": "CP Garcia Hwy",
+    "lat": 7.125935109,
+    "lon": 125.6339171,
+    "routes": [
+      "R763AM",
+      "R763PM",
+      "R783AM",
+      "R783PM"
+    ]
+  },
+  {
+    "stopId": "N93",
+    "name": "Laverna",
+    "location": "CP Garcia Hwy",
+    "lat": 7.126779,
+    "lon": 125.6354017,
+    "routes": [
+      "R763AM",
+      "R763PM",
+      "R793AM",
+      "R793PM"
+    ]
+  },
+  {
+    "stopId": "N94",
+    "name": "Sta. Lucia Mall",
+    "location": "CP Garcia Hwy",
+    "lat": 7.132882316,
+    "lon": 125.6429028,
+    "routes": [
+      "R763AM",
+      "R763PM",
+      "R783AM",
+      "R783PM"
+    ]
+  },
+  {
+    "stopId": "N95",
+    "name": "Jose Maria College",
+    "location": "CP Garcia Hwy",
+    "lat": 7.134138615,
+    "lon": 125.644548,
+    "routes": [
+      "R763AM",
+      "R763PM",
+      "R793AM",
+      "R793PM"
+    ]
+  },
+  {
+    "stopId": "N96",
+    "name": "LPU Davao",
+    "location": "CP Garcia Hwy",
+    "lat": 7.136833452,
+    "lon": 125.6470408,
+    "routes": [
+      "R763AM",
+      "R763PM",
+      "R783AM",
+      "R783PM"
+    ]
+  },
+  {
+    "stopId": "N97",
+    "name": "Landmark",
+    "location": "CP Garcia Hwy",
+    "lat": 7.138835144,
+    "lon": 125.6495097,
+    "routes": [
+      "R763AM",
+      "R763PM",
+      "R793AM",
+      "R793PM"
+    ]
+  },
+  {
+    "stopId": "N98",
+    "name": "Panacan Ave.",
+    "location": "CP Garcia Hwy",
+    "lat": 7.142879108,
+    "lon": 125.6537551,
+    "routes": [
+      "R763AM",
+      "R763PM",
+      "R793AM",
+      "R793PM"
+    ]
+  },
+  {
+    "stopId": "N99",
+    "name": "Panacan Bypass Rd.",
+    "location": "CP Garcia Hwy",
+    "lat": 7.144045346,
+    "lon": 125.654642,
+    "routes": [
+      "R763AM",
+      "R763PM",
+      "R783AM",
+      "R783PM"
+    ]
+  },
+  {
+    "stopId": "N100",
+    "name": "Panacan Depot",
+    "location": "CP Garcia Hwy",
+    "lat": 7.148230389,
+    "lon": 125.6590527,
+    "routes": [
+      "R763AM",
+      "R763PM",
+      "R783AM",
+      "R783PM"
+    ]
+  },
+  {
+    "stopId": "N101",
+    "name": "DavSam Ferry Terminal",
+    "location": "Daang Maharlika Hwy",
+    "lat": 7.146948073,
+    "lon": 125.6611291,
+    "routes": [
+      "R763AM",
+      "R763PM",
+      "R783AM",
+      "R783PM"
+    ]
+  },
+  {
+    "stopId": "N102",
+    "name": "NCCC Panacan",
+    "location": "Daang Maharlika Hwy",
+    "lat": 7.144051944,
+    "lon": 125.6612015,
+    "routes": [
+      "R793AM",
+      "R793PM"
+    ]
+  },
+  {
+    "stopId": "N103",
+    "name": "Sasa Palengke",
+    "location": "Daang Maharlika Hwy",
+    "lat": 7.134046197,
+    "lon": 125.6615202,
+    "routes": [
+      "R793AM",
+      "R793PM"
+    ]
+  },
+  {
+    "stopId": "N104",
+    "name": "Sasa Palengke",
+    "location": "Daang Maharlika Hwy",
+    "lat": 7.134329396,
+    "lon": 125.6616647,
+    "routes": [
+      "R783AM",
+      "R783PM"
+    ]
+  },
+  {
+    "stopId": "N105",
+    "name": "Sulpicio Rd. Sasa",
+    "location": "Daang Maharlika Hwy",
+    "lat": 7.126957947,
+    "lon": 125.661688,
+    "routes": [
+      "R793AM",
+      "R793PM"
+    ]
+  },
+  {
+    "stopId": "N106",
+    "name": "Philippine Ports Authority",
+    "location": "Daang Maharlika Hwy",
+    "lat": 7.12696,
+    "lon": 125.661867,
+    "routes": [
+      "R783AM",
+      "R783PM"
+    ]
+  },
+  {
+    "stopId": "N107",
+    "name": "Doña Salud",
+    "location": "Daang Maharlika Hwy",
+    "lat": 7.122235983,
+    "lon": 125.6587361,
+    "routes": [
+      "R793AM",
+      "R793PM"
+    ]
+  },
+  {
+    "stopId": "N108",
+    "name": "Shell Doña Salud",
+    "location": "Daang Maharlika Hwy",
+    "lat": 7.121833475,
+    "lon": 125.6586613,
+    "routes": [
+      "R783AM",
+      "R783PM"
+    ]
+  },
+  {
+    "stopId": "N109",
+    "name": "Old Airport",
+    "location": "Daang Maharlika Hwy",
+    "lat": 7.117026239,
+    "lon": 125.6545051,
+    "routes": [
+      "R793AM",
+      "R793PM"
+    ]
+  },
+  {
+    "stopId": "N110",
+    "name": "Old Airport",
+    "location": "Daang Maharlika Hwy",
+    "lat": 7.117329244,
+    "lon": 125.6549798,
+    "routes": [
+      "R783AM",
+      "R783PM"
+    ]
+  },
+  {
+    "stopId": "N111",
+    "name": "Doña Pilar",
+    "location": "Daang Maharlika Hwy",
+    "lat": 7.115435448,
+    "lon": 125.6534653,
+    "routes": [
+      "R783AM",
+      "R783PM"
+    ]
+  },
+  {
+    "stopId": "N112",
+    "name": "Petron Doña Pilar",
+    "location": "Daang Maharlika Hwy",
+    "lat": 7.114237075,
+    "lon": 125.6522016,
+    "routes": [
+      "R793AM",
+      "R793PM"
+    ]
+  },
+  {
+    "stopId": "N113",
+    "name": "Nova Tierra",
+    "location": "Daang Maharlika Hwy",
+    "lat": 7.11030413,
+    "lon": 125.6490185,
+    "routes": [
+      "R793AM",
+      "R793PM"
+    ]
+  },
+  {
+    "stopId": "N114",
+    "name": "Nova Tierra",
+    "location": "Daang Maharlika Hwy",
+    "lat": 7.10954002,
+    "lon": 125.6486777,
+    "routes": [
+      "R783AM",
+      "R783PM"
+    ]
+  },
+  {
+    "stopId": "N115",
+    "name": "Jerome R. Castillo",
+    "location": "R Castillo St",
+    "lat": 7.095208195,
+    "lon": 125.6367137,
+    "routes": [
+      "R793AM",
+      "R793PM"
+    ]
+  },
+  {
+    "stopId": "N116",
+    "name": "Jerome R. Castillo",
+    "location": "R Castillo St",
+    "lat": 7.094966489,
+    "lon": 125.636762,
+    "routes": [
+      "R783AM",
+      "R783PM"
+    ]
+  },
+  {
+    "stopId": "N117",
+    "name": "Holy Cross R. Castillo",
+    "location": "R Castillo St",
+    "lat": 7.087363512,
+    "lon": 125.6294772,
+    "routes": [
+      "R783AM",
+      "R783PM"
+    ]
+  },
+  {
+    "stopId": "N118",
+    "name": "Holy Cross R. Castillo",
+    "location": "R Castillo St",
+    "lat": 7.087240272,
+    "lon": 125.6290852,
+    "routes": [
+      "R793AM",
+      "R793PM"
+    ]
+  },
+  {
+    "stopId": "N119",
+    "name": "Assumption College",
+    "location": "Dacudao Ave",
+    "lat": 7.087806401,
+    "lon": 125.6237475,
+    "routes": [
+      "R793AM",
+      "R793PM"
+    ]
+  },
+  {
+    "stopId": "N120",
+    "name": "Assumption College",
+    "location": "Cabaguio Ave",
+    "lat": 7.086729866,
+    "lon": 125.6238863,
+    "routes": [
+      "R783AM",
+      "R783PM"
+    ]
+  },
+  {
+    "stopId": "N121",
+    "name": "Agdao Flyover",
+    "location": "Leon Garcia St",
+    "lat": 7.081468241,
+    "lon": 125.6245187,
+    "routes": [
+      "R783AM",
+      "R783PM",
+      "R793AM",
+      "R793PM"
+    ]
+  },
+  {
+    "stopId": "N122",
+    "name": "Agdao Flyover",
+    "location": "Leon Garcia St",
+    "lat": 7.080770097,
+    "lon": 125.6247843,
+    "routes": [
+      "R783AM",
+      "R783PM",
+      "R793AM",
+      "R793PM"
+    ]
+  },
+  {
+    "stopId": "N123",
+    "name": "Sta. Ana Sobrecarey",
+    "location": "Sta Ana Ave",
+    "lat": 7.077005599,
+    "lon": 125.620167,
+    "routes": [
+      "R783AM",
+      "R783PM",
+      "R793AM",
+      "R793PM"
+    ]
+  },
+  {
+    "stopId": "N124",
+    "name": "Sta. Ana Sobrecarey",
+    "location": "Sta Ana Ave",
+    "lat": 7.076935318,
+    "lon": 125.6203584,
+    "routes": [
+      "R783AM",
+      "R783PM",
+      "R793AM",
+      "R793PM"
+    ]
+  }
+]
